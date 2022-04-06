@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\bin\Debug\netcoreapp3.1\IndexerReflectionException.exe
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\bin\Debug\netcoreapp3.1\IndexerReflectionException.deps.json
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\bin\Debug\netcoreapp3.1\IndexerReflectionException.runtimeconfig.json
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\bin\Debug\netcoreapp3.1\IndexerReflectionException.runtimeconfig.dev.json
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\bin\Debug\netcoreapp3.1\IndexerReflectionException.dll
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\bin\Debug\netcoreapp3.1\IndexerReflectionException.pdb
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.AssemblyInfo.cs
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.dll
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.pdb
+C:\Users\HP\source\repos\IndexerReflectionException\IndexerReflectionException\obj\Debug\netcoreapp3.1\IndexerReflectionException.genruntimeconfig.cache

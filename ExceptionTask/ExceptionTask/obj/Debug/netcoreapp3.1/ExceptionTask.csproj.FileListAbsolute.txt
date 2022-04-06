@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\bin\Debug\netcoreapp3.1\ExceptionTask.exe
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\bin\Debug\netcoreapp3.1\ExceptionTask.deps.json
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\bin\Debug\netcoreapp3.1\ExceptionTask.runtimeconfig.json
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\bin\Debug\netcoreapp3.1\ExceptionTask.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\bin\Debug\netcoreapp3.1\ExceptionTask.dll
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\bin\Debug\netcoreapp3.1\ExceptionTask.pdb
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.dll
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.pdb
+C:\Users\HP\source\repos\ExceptionTask\ExceptionTask\obj\Debug\netcoreapp3.1\ExceptionTask.genruntimeconfig.cache
